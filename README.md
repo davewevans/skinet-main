@@ -1,6 +1,5 @@
-#Dave's Ski Gear
-#Demo e-Commerce application by David Evans
-
+# Dave's Ski Gear
+## Demo e-Commerce application by David Evans
 
 - Angular 15
 - .NET 7 Web API
